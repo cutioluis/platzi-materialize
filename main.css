@@ -41,3 +41,17 @@ header ul a  {
     background-size: cover;
 }
 
+footer.page-footer {
+    height: 80px;
+    background: gray;
+    
+}
+
+.post-pic {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://picsum.photos/1000/400');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
